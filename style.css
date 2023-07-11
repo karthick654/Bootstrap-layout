@@ -1,0 +1,339 @@
+#header{
+    padding:30px 0px;
+    background-color: aqua;
+    width:auto;
+}
+
+.logo a{
+    /* background-color: blue; */
+    color:#485664;
+    text-decoration: none;
+    font-size:large;
+}
+#nav-bar ul{
+   display:flex;
+   margin:0;
+   list-style-type: none;
+} 
+#nav-bar ul li {
+    background-color: black;
+    display: inline-block;
+    height: 32px;
+    width: 237px;
+    margin-right: 2px;
+    padding: 10px 0px 10px 0px;
+}
+.btn-getstarted{
+    background-color: blanchedalmond;
+    padding:10px 10px;
+    text-decoration:none;
+}
+/* .banner{
+    background:linear-gradient(.25turn, red, 10%, blue);
+    height:300px;
+    width:auto;
+} */
+/* .banner{
+    background-color: green;
+    height: 10pc;
+} */
+.rw1{
+    /* justify-content: center;
+    align-items: center; */
+    height: 20pc;
+    
+}
+#animate-section{
+    padding:60px 0px;
+    background-color: red;
+}
+.content{
+    text-align:center;
+}
+.content h1{
+    /* background-color: aqua; */
+    color:black;    
+}
+.banner-btn{
+    background-color: antiquewhite;
+}
+.featured-service{
+    background-color: #485664;
+    padding:60px;
+}
+#det-1{
+    background-color: aliceblue;
+    padding:10px 20px; 
+    height:100px;
+     margin-right:5px; 
+}
+#det-2{
+    background-color: blue;
+    padding:10px;
+}
+#det-3{
+    background-color: black;
+}
+#det-4{
+    background-color: aqua;
+}
+.aboutus-section{
+    padding:100px;
+    background-color: bisque;
+}
+.about-head h2{
+    margin:0 auto;
+    background-color: aqua;
+    max-width:30%;
+    height:30px;
+    padding:10px;
+}
+.about-head p{
+    margin:2px auto;
+    background-color: aquamarine;
+    padding:10px 10px;
+    max-width:60%;
+}
+#pic{
+    margin:10px;
+    background-color: rgb(49, 57, 57);
+    /* padding:100px 30px; */
+    height:600px;
+}
+#cont{
+    margin:10px;
+    background-color: rgb(49, 57, 57);
+    /* padding:100px 30px; */
+    height:600px;
+}
+.bg-color{
+    background-color: aqua;
+    padding:60px;
+}
+.cont{
+    background-color: black;
+    height:300px;
+}
+.pic{
+    background-color: azure;
+    height:300px;
+    overflow: hidden;
+}
+.onfocus-section{
+    background-color: #485664;
+    padding:80px;
+}
+.pic{
+    background-color: black;
+    height:300px;
+}
+.cont{
+    background-color: white;
+    height:300px;
+}
+
+.features-section{
+    background-color: aquamarine;
+    padding:40px;
+}
+.pic1{
+    background-color: black;
+    height:30px;
+}
+.pic2{
+    background-color: green;
+    height:30px;
+}
+.pic3{
+    background-color: rgb(128, 0, 17);
+    height:30px;
+}
+.pic4{
+    background-color: rgb(0, 68, 128);
+    height:30px;
+}
+.pic5{
+    background-color: rgb(128, 43, 0);
+    height:30px;
+}
+.pic6{
+    background-color: rgb(18, 19, 18);
+    height:30px;
+}
+.tab-section{
+    padding:100px;
+    background-color: bisque;
+}
+#picture{
+    background-color: aqua;
+    height:300px;
+    /* width:auto; */
+}
+#content{
+    background-color: rgb(255, 0, 149);
+    height:300px;
+}
+.service-section{
+    background-color: rgb(10, 11, 11);
+    padding:60px;
+}
+.serv-pic1{
+    background-color: white;
+    height:300px;
+    width:500px;
+    margin-top:10px;
+    /* padding:20px 50px; */
+}
+.serv-pic2{
+    background-color: white;
+    height:300px;
+    width:400px;
+    margin-top:10px;
+    /* padding:20px 50px; */
+}
+.serv-pic3{
+    background-color: white;
+    height:300px;
+    width:400px;
+    margin-top:10px;
+    /* padding:20px 50px; */
+}
+.testimonial-section{
+    padding:80px 0px;
+    background-color: #485664;
+}
+.image img{
+    margin:0 auto;
+    background-color: aqua;
+    height:60px;
+    width:50px;
+    border-radius: 50%;
+}
+.image h2{
+    margin:0 auto;
+    background-color: aqua;
+    max-width:20%;
+    height:30px;
+    padding:10px;
+}
+.center{
+    text-align: center;
+}
+.image p{
+    margin:2px auto;
+    background-color: aquamarine;
+    padding:30px 10px;
+    max-width:60%; 
+}
+.pricing-section{
+    padding:80px;
+    background-color: rgba(130, 130, 41, 0.14);
+}
+.price1{
+    margin-top:10px;
+    background-color: black;
+    height:550px;
+    width:400px;
+}
+.price2{
+    margin-top:10px;
+    background-color: rgb(66, 21, 21);
+    height:550px;
+    width:400px;
+}
+.price3{
+    margin-top:10px;
+    background-color:green;
+    height:550px;
+    width:400px;
+}
+.portfolio-section{
+    padding:60px;
+    background-color: azure;
+}
+.img1{
+    /* margin-top:20px; */
+    background-color: rgb(159, 29, 29);
+    height:200px;
+}
+.img2{
+    /* margin-top:20px; */
+    background-color: rgb(0, 0, 0);
+    height:200px;
+}
+.img3{
+    /* margin-top:20px; */
+    background-color: rgb(175, 152, 152);
+    height:200px;
+}
+.team-section{
+    padding:60px;
+    background-color: rgb(181, 221, 181);
+}
+.blog-section{
+    background-color: blue;
+    padding:60px;
+}
+.blog-cont{
+    text-align: center;
+}
+.map-section{
+    padding:80px;
+    background-color: black;
+}
+.map-head{
+    background-color: aqua;
+    height:500px;
+}
+.contact-section{
+    background-color: azure;
+    padding:60px;
+}
+.location{
+    background-color: aqua;
+    height:450px;
+}
+.forms{
+    height:450px;
+    background-color: black;
+}
+.form-btn{
+    text-align:center;
+    margin-top:460px;
+}
+.form-btn button{
+    padding:5px 15px;
+    /* border:none; */
+}
+.footer-section{
+    padding:80px 0px;
+    background-color: gray;
+}
+.lay1{
+    background-color: red;
+    height:300px;
+}
+.lay2{
+    background-color: rgb(13, 12, 12);
+    height:300px;
+}
+.lay3{
+    background-color: rgb(59, 34, 184);
+    height:300px;
+}
+.subscribe{
+    background-color: aquamarine;
+    height:300px;
+}
+.footer-2{
+    padding:40px;
+    background-color: black;
+}
+.copyright{
+    background-color: blue;
+    height:60px;
+}
+.social{
+    background-color: aqua;
+    height:60px;
+}
